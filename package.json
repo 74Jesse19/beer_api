@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/74Jesse19/beer_api#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.8.11"
   }
 }
